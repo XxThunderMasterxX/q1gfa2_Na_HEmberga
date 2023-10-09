@@ -1,0 +1,9 @@
+ display: inline-block;
+    border: 5px solid #FFD700;
+    width: auto;
+    height: auto;
+    margin-top: 20px;
+    margin-left: 1vw;
+    margin-right: 1vw;
+
+    <img src="vball.jpg" alt=":D" width="1000" height="650">

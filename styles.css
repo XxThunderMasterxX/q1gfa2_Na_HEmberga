@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Passion+One&family=Young+Serif&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.menubar{
+
+    border: 1px solid black;
+    padding: 15px;
+    background-color: #00BFFF;
+    text-align: right;
+    text-decoration: none;
+}
+
+.links{
+
+        display: inline;
+        border: 1px solid black;
+        padding: 5px;
+        font-family: 'Young Serif', serif;
+        
+font-size: small;
+}
+
+
+.menubar h1{
+
+    text-align: left;
+    font-family: 'Passion One', cursive;
+font-family: 'Young Serif', serif;
+font-size: large;
+}
+
+.menubar h2{
+
+    text-align: center;
+}
+
+.contentbody{
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 50px;
+    border: 1px solid black;
+    padding: 20px;
+    background-color: #FFD700;
+    display: inline-block;
+}
+
+.contentbody div{
+
+    min-height: 50vh;
+}
+
+.sidelinks{
+    display: inline-block;
+    width: 10vw;
+    float: left;
+}
+
+.link{
+
+    padding: 15px;
+    text-align: left;
+    
+}
+
+.mainbody{
+   border: 1px #FFD700;
+   width: 50px;
+   height: 50px;
+   display: inline-block;
+   
+}
+
+.mainbody h1{
+
+    text-align: center;
+}
+
